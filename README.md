@@ -4,7 +4,7 @@
 
 Repo : [SongProBot 🎻](https://GitHub.Com/TamilBots/SongPlayRoBot)
 
-Bot : [Song Pro Bot 🧚‍](https://t.me/SongProBot)
+Bot : [Song Pro Bot 🧚‍]9
 
 ## SongPlayRoBot
 3X Fast Telethon Based Bot ⚜
