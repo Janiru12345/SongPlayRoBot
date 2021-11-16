@@ -1,7 +1,7 @@
 {
-    "name": "SongPlayRoBot",
-    "logo": "https://telegra.ph/file/cb7b0aead06c96955323e.jpg",
-    "description": "Grabs song from yt and sends it to telegram by @TamilBots",
+    "name": "Crypto.Tip.Bot",
+    "logo": "https://telegra.ph/file/985b8b2d9733ceaf26606.jpg",
+    "description": "You can tip your crypto easly",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org.",
@@ -22,7 +22,7 @@
     },
     "buildpacks": [
         {
-            "url": "heroku/python"
+            "url": "heroku/nodejs"
         }
     ],
     "addons": [
